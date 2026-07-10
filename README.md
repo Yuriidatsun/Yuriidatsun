@@ -2,7 +2,7 @@
 
 **Computer Science student in Poznań, Poland — I build full-stack projects end to end, from Figma design to a working product.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yurii-datsun-6b604840a)
 [![Email](https://img.shields.io/badge/Email-dacunura%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dacunura@gmail.com)
 
 ---
