@@ -9,27 +9,11 @@
 
 ## 🔨 Featured Projects
 
-### 🏠 PropMatch — Real Estate Marketplace with Built-in CRM
-A working end-to-end MVP where buyers search properties on an interactive world map and agents manage leads in a built-in CRM.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **PropMatch** | Real estate marketplace with CRM: Mapbox search, real-time chat, drag-and-drop lead pipeline | Next.js 14 · TypeScript · Supabase |
+| **Demilies** | E-commerce sticker shop: bundle selector with live pricing, AJAX cart, custom child theme | WordPress · WooCommerce · PHP |
 
-- 🗺️ Property search on an interactive **Mapbox** map with geocoding and draggable pins
-- 💬 **Real-time chat** between buyers and agents
-- 📋 Agent CRM with a **drag-and-drop lead pipeline** (New → Viewing → Offer → Closed)
-- 🔐 Role-based access, photo uploads, Row Level Security
-
-**Stack:** Next.js 14 · React 18 · TypeScript · Tailwind CSS · Supabase (PostgreSQL + PostGIS, Auth, Realtime)
-
-### 🛒 Demilies — E-commerce Sticker Shop
-Designed in Figma, built as a fully working WooCommerce store.
-
-- 🎨 6 product collections, **3-tier bundle selector with live price recalculation**
-- 🛍️ AJAX cart and complete checkout flow with customer accounts
-- 🧩 Custom HTML/CSS/JS and **PHP hooks in an update-safe child theme**
-- 🐛 Debugged real WordPress issues (wpautop, CSS specificity, Customizer overrides) with Chrome DevTools
-
-**Stack:** WordPress · WooCommerce · PHP · MySQL · XAMPP
-
----
 
 ## 🛠 Tech Stack
 
